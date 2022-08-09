@@ -1,0 +1,17 @@
+GL_FRAGMENT_SHADER Compilation Failed
+Mon Jun 27 14:56:09 2022
+
+0(7) : error C0000: syntax error, unexpected reserved word "uniform", expecting ',' or ';' at token "uniform"
+
+Mon Jun 27 14:56:09 2022
+
+Linking Failed
+Mon Jun 27 14:56:09 2022
+
+Fragment info
+-------------
+0(7) : error C0000: syntax error, unexpected reserved word "uniform", expecting ',' or ';' at token "uniform"
+(0) : error C2003: incompatible options for link
+
+Mon Jun 27 14:56:09 2022
+
